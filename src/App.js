@@ -7,6 +7,9 @@ function App() {
       <Section className={"mt-20"}>
         <ProfileView profileData={profileInfo.userInfo} />
       </Section>
+      <section>
+
+      </section>
       <Section
         className={"mt-20"}
         title={"Latest Video"}
