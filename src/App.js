@@ -28,7 +28,7 @@ function App() {
       </Section>
 
       <Section className={"mt-20"} xl>
-        <div className="bg-red-400 p-10">asdfasdf</div>
+        <div className=" p-10">asdfasdf</div>
       </Section>
       <CreateProfile />
     </main>
