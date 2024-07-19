@@ -28,7 +28,7 @@ function App() {
       </Section>
 
       <Section className={"mt-20"} xl>
-        <div className=" p-10">asdfasdf</div>
+        <div className=" p-10">this is the fotter section</div>
       </Section>
       <CreateProfile />
     </main>
