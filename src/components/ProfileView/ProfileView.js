@@ -8,7 +8,7 @@ function ProfileView({ profileData }) {
         <img
           src={profileData.profilePic}
           alt={profileData.userName + " profile image"}
-          className="rounded-full w-30 h-30 mx-auto ring-8  ring-gray-200"
+          className="rounded-full w-30 h-30 mx-auto ring-6  ring-gray-200"
         />
         <h1 className="pt-5 font-medium text-2xl tracking-wider leading-10">
           {profileData.userName}
